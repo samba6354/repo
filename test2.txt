@@ -1,1 +1,3 @@
 created test2 in repo
+
+add second line from CLI
